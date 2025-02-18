@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body{
+    background-image: url("./assets/image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    font-family: monospace;
+}
